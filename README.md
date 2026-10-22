@@ -23,8 +23,8 @@ Los nombres de las personas registradas están en `embeddings.pkl` y los nombres
 
 ## Instalación
 ```bash
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+git clone https://github.com/capreciadoq2021-crypto/udenar_app.git
+cd udenar_app
 python -m venv venv
 ```
 
